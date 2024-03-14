@@ -25,7 +25,7 @@ author:
   name             : "João N. Fernandes"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Assistant Researcher"
-  location         : "Earth"
+  location         : "Lisbon/Portugal"
   employer         : "LNEC"
   uri              : # URL
   email            : "jnfernandes@lnec.pt" 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+ # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  #twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -260,7 +260,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _tal
   - scope:
       path: ""
       type: talks
