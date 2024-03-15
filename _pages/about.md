@@ -6,19 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Video Embed</title>
-</head>
-<body>
-    <h2>Embedded YouTube Video</h2>
-    <!-- Replace 'VIDEO_ID' with the actual ID of the YouTube video -->
-    <iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/watch?v=FEo6oysRKDU)" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>
 
 
 My professional experience comprises research, consulting and teaching activities. 
