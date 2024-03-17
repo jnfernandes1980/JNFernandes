@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering, IST, Lisbon University, 2013
+* 5-years degree in Civil Engineering, IST, Lisbon University, 2003
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From 2019: Assistant Researcher
+  * National Laboratory for Civil Engineering
+  * Hydraulics and Environmental Department
+  * Water Resources and Hydraulic Structures Division
 
 * Fall 2015: Research Assistant
   * Github University
