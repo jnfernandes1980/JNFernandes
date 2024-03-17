@@ -10,7 +10,7 @@ redirect_from:
 ## Interesting links
 
  * [Huberman Lab](https://www.hubermanlab.com/)
- * [Lex Fridman] (https://lexfridman.com/)
+ * [Lex Fridman](https://lexfridman.com/)
  * 
 
 * Basic config options: _config.yml
