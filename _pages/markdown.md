@@ -11,7 +11,9 @@ redirect_from:
 
  * [Huberman Lab](https://www.hubermanlab.com/)
  * [Lex Fridman](https://lexfridman.com/)
- * 
+ * [Filesender](https://filesender.fccn.pt/)
+ * [APA citation](https://www.scribbr.com/citation/generator/apa/)
+ * [NPR](http://www.npr.org/series/98679384/first-listen)
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
