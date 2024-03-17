@@ -10,7 +10,8 @@ redirect_from:
 ## Interesting links
 
  * [Huberman Lab](https://www.hubermanlab.com/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+ * [Lex Fridman] (https://lexfridman.com/)
+ * 
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
