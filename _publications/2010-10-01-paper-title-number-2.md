@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: '[1]	Fernandes, J.N.; Leal, J.B.; Cardoso, A.H. (2023) Shear layer development and fully developed flows in compound channels, em revisão na Water Resources Management
 
-[2]	Barbosa, A.E.; Fernandes, J.N. (2021) Review of tools for road runoff quality prediction and application to European roads, Water Science & Technology, https://doi.org/10.2166/wst.2021.427
+[2]	Barbosa, A.E.; Fernandes, J.N. (2021) Review of tools for road runoff quality prediction and application to European roads, Water Science & Technology, https://doi.org/10.2166/wst.2021.427<br> 
 
 [3]	Fernandes, J.N. (2021) Apparent roughness coefficient in overbank flows, SN Applied Sciences, 2021, 3(7), 696
 
