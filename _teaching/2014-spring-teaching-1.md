@@ -1,5 +1,5 @@
 ---
-title: "Hidráulica 1"
+title: "Hidraulics 1"
 collection: teaching
 type: "Mestrado integrado em Engenharia Civil"
 permalink: /teaching/2014-spring-teaching-1
