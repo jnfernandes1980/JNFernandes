@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: '[1]	Fernandes, J.N.; Leal, J.B.; Cardoso, A.H. (2023) Shear layer development and fully developed flows in compound channels, em revisão na Water Resources Management
+citation: '[1]	Fernandes, J.N.; Leal, J.B.; Cardoso, A.H. (2023) Shear layer development and fully developed flows in compound channels, em revisão na Water Resources Management<br> <br> 
 
 [2]	Barbosa, A.E.; Fernandes, J.N. (2021) Review of tools for road runoff quality prediction and application to European roads, Water Science & Technology, https://doi.org/10.2166/wst.2021.427<br> <br> 
 
