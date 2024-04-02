@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Hidráulica 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Mestrado integrado em Engenharia Civil"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, Departmento de Engenharia Civil"
+date: 2019-01-01
+location: "Almada, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to geenral hydraulics including Fluid Properties; Hydrostatics: hydrostatic pressure and impulse; Hydrokinematics: flow and flow lines; Hydrodynamics: laws of conservation of mass, energy and momentum; Flow resistance laws: laminar and turbulent flows; Steady-state pressure flows.
 
 Heading 1
 ======
