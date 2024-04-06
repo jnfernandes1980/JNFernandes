@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+------
+
 
 My professional experience comprises research, consulting and teaching activities. 
 After the degree in Civil Engineering in 2003, JNF worked in a private company in projects related to water management, dam safety and hydropower. 
