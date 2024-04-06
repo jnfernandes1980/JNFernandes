@@ -1,7 +1,7 @@
 ---
 title: "Hydraulics 1"
 collection: teaching
-type: "Mestrado integrado em Engenharia Civil"
+type: "Master in Civil Engineering"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, Departmento de Engenharia Civil"
 date: 2019-01-01
