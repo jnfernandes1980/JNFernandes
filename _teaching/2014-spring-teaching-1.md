@@ -8,7 +8,9 @@ date: 2019-01-01
 location: "Almada, Portugal"
 ---
 
-Introduction to geenral hydraulics including Fluid Properties; Hydrostatics: hydrostatic pressure and impulse; Hydrokinematics: flow and flow lines; Hydrodynamics: laws of conservation of mass, energy and momentum; Flow resistance laws: laminar and turbulent flows; Steady-state pressure flows.
+Introduction to general hydraulics including Fluid Properties<br>
+Hydrostatics: hydrostatic pressure and impulse<br>
+Hydrokinematics: flow and flow lines; Hydrodynamics: laws of conservation of mass, energy and momentum; Flow resistance laws: laminar and turbulent flows; Steady-state pressure flows.
 
 Heading 1
 ======
