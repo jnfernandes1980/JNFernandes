@@ -9,6 +9,8 @@ redirect_from:
 
 ## Interesting links
 
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+
  * [Huberman Lab](https://www.hubermanlab.com/)
  * [Lex Fridman](https://lexfridman.com/)
  * [Filesender](https://filesender.fccn.pt/)
