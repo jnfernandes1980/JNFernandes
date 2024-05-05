@@ -9,7 +9,7 @@ redirect_from:
 
 ## Interesting links
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+<iframe src="https://www.goodreads.com/user/show/40311941?ref=nav_profile_l" title="W3Schools Free Online Web Tutorials"></iframe>
 
  * [Huberman Lab](https://www.hubermanlab.com/)
  * [Lex Fridman](https://lexfridman.com/)
